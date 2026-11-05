@@ -1,0 +1,20 @@
+1,Salata de vinete,APERITIV,18.5,200,true
+2,Platou cu branzeturi,APERITIV,39.0,350,true
+3,Bruschete cu rosii,APERITIV,21.0,250,true
+4,Ciorba de burta,SUPA,24.0,400,false
+5,Ciorba de perisoare,SUPA,22.0,400,false
+6,Supa crema de ciuperci,SUPA,20.0,350,true
+7,Sarmale cu mamaliga,FEL_PRINCIPAL,34.0,450,false
+8,Snitel de pui cu cartofi,FEL_PRINCIPAL,36.5,400,false
+9,Ceafa de porc la gratar,FEL_PRINCIPAL,42.0,350,false
+10,Somon cu legume,FEL_PRINCIPAL,59.0,350,false
+11,Risotto cu ciuperci,FEL_PRINCIPAL,35.0,350,true
+12,Papanasi cu smantana,DESERT,26.0,250,true
+13,Clatite cu dulceata,DESERT,19.0,200,true
+14,Tiramisu,DESERT,24.0,150,true
+15,Apa minerala,BAUTURA,8.0,500,true
+16,Limonada,BAUTURA,15.0,400,true
+17,Cafea espresso,BAUTURA,10.0,50,true
+18,Bere la halba,BAUTURA,14.0,500,true
+19,Vin rosu (pahar),BAUTURA,22.0,150,true
+20,Ciorba radauteana,SUPA,13.0,400,false

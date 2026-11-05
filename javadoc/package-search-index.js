@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ro.ase.restaurant.clase"},{"l":"ro.ase.restaurant.exceptii"},{"l":"ro.ase.restaurant.gui"},{"l":"ro.ase.restaurant.interfete"},{"l":"ro.ase.restaurant.main"},{"l":"ro.ase.restaurant.model"}];updateSearchResults();
